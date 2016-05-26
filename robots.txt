@@ -1,0 +1,3 @@
+Sitemap: http://amisenshort-volley.github.io/asas/sitemap.xml
+User-agent: *
+Disallow:
